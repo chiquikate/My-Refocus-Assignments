@@ -7,4 +7,4 @@ let bmi = function(weight, height){
     return result;
 }
 
-console.log(bmi(130, 62));
+console.log(bmi(132, 61));
